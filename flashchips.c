@@ -6472,7 +6472,7 @@ const struct flashchip flashchips[] = {
 
 	{
 		.vendor		= "GigaDevice",
-		.name		= "GD25B127D,
+		.name		= "GD25B127D",
 		.bustype	= BUS_SPI,
 		.manufacture_id	= GIGADEVICE_ID,
 		.model_id	= GIGADEVICE_GD25Q128,
